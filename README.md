@@ -5,6 +5,7 @@
 <div align="center">
 
 [![Badge](https://img.shields.io/badge/Sathyabama-Cybersecurity-4F46E5?style=for-the-badge)](https://www.sathyabama.ac.in)
+[![Badge](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-00A859?style=for-the-badge)](https://www.eccouncil.org)
 [![Badge](https://img.shields.io/badge/Google-Cybersecurity%20Certified-EA4335?style=for-the-badge)](https://coursera.org)
 [![Badge](https://img.shields.io/badge/ISC²-Certified-0066CC?style=for-the-badge)](https://www.isc2.org)
 [![Badge](https://img.shields.io/badge/Rajamahendravaram-India-FF6B35?style=for-the-badge)](https://maps.google.com)
@@ -149,6 +150,7 @@ I'm a **Cybersecurity Engineering Student** passionate about building intelligen
 - Sathyabama Institute of Science and Technology, Chennai
 
 **📜 Professional Certifications**
+- ✅ Certified Ethical Hacker (CEH)
 - ✅ Google Cybersecurity Specialization
 - ✅ ISC² Cybersecurity Certified
 - ✅ IBM Cybersecurity Fundamentals
