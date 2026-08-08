@@ -85,6 +85,5 @@ I'm a **Cybersecurity Engineering Student** with deep expertise in security tool
 
 - **GitHub:** [@Phanidhar007](https://github.com/Phanidhar007)
 - **Email:** [phanidhar2349@gmail.com](mailto:phanidhar2349@gmail.com)
-- **LinkedIn:** [Add your profile URL here]
 
 **Thank you for visiting! Star if you find my projects useful! ⭐**
