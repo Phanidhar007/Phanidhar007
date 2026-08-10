@@ -120,6 +120,22 @@ I'm a **Cybersecurity Engineering Student** passionate about building intelligen
 | [**insider-threat-detection**](https://github.com/Phanidhar007/insider-threat-detection) | Insider threat behavioral analytics engine | Python, scikit-learn | [Live](https://insider-threat-detection-lac.vercel.app) |
 | [**federated-threat-intel**](https://github.com/Phanidhar007/federated-threat-intel) | Federated threat intelligence sharing simulator | Python, FL | [Live](https://federated-threat-intel.vercel.app) |
 
+## Research-Grade — Advanced Security ML (Real Runs)
+
+| Project | Description | Key Results | Live Demo |
+|---------|-------------|-------------|-----------|
+| [**llm-soc-copilot**](https://github.com/Phanidhar007/llm-soc-copilot) | RAG-powered SOC triage copilot over MITRE ATT&CK with human-in-the-loop logging | Triage acc ~96.7%, response time −63.8% | [Live](https://llm-soc-copilot.vercel.app) |
+| [**multi-stage-attack-chain**](https://github.com/Phanidhar007/multi-stage-attack-chain) | Correlates IDS/insider/log detectors into kill-chain campaign alerts | Chain precision 0.769, recall 0.714 | [Live](https://multi-stage-attack-chain.vercel.app) |
+| [**counterfactual-anomaly-detection**](https://github.com/Phanidhar007/counterfactual-anomaly-detection) | SHAP explanations + DiCE-style counterfactuals for every anomaly | SHAP 95% → SHAP+CF 100% alert explainability | [Live](https://counterfactual-anomaly-detection.vercel.app) |
+| [**model-extraction-defense**](https://github.com/Phanidhar007/model-extraction-defense) | Simulates black-box model extraction + query-logging anomaly defense | Detection 100% @ 0% FPR, latency +13.8% | [Live](https://model-extraction-defense.vercel.app) |
+| [**federated-poisoning-defense**](https://github.com/Phanidhar007/federated-poisoning-defense) | Label-flip & backdoor poisoning vs Krum / trimmed-mean / median defense | Backdoor 0.996 → 0.94–0.99 defended | [Live](https://federated-poisoning-defense.vercel.app) |
+| [**membership-inference-dp**](https://github.com/Phanidhar007/membership-inference-dp) | Membership inference attack + manual DP-SGD (RDP accountant) defense | Attack acc 0.64 → 0.51 @ ε=22.9 | [Live](https://membership-inference-dp.vercel.app) |
+| [**security-mlops-pipeline**](https://github.com/Phanidhar007/security-mlops-pipeline) | Monitor → drift → retrain → shadow → promote/rollback loop for IDS models | v2 promoted (acc 0.98) via PSI drift | [Live](https://security-mlops-pipeline.vercel.app) |
+| [**encrypted-inference**](https://github.com/Phanidhar007/encrypted-inference) | Homomorphic-encrypted IDS inference (server never sees plaintext) | 100% match, latency overhead 2065× | [Live](https://encrypted-inference.vercel.app) |
+| [**threat-intel-enrichment**](https://github.com/Phanidhar007/threat-intel-enrichment) | SOC alert enrichment from AbuseIPDB / OTX / MISP feeds with severity re-rank | 91.7% enrichment hit rate, 65% bumped up | [Live](https://threat-intel-enrichment.vercel.app) |
+| [**self-supervised-traffic**](https://github.com/Phanidhar007/self-supervised-traffic) | Masked-feature pretraining of a transformer encoder for network traffic | +24.9 pts at 5% labels (83.7% vs 58.7%) | [Live](https://self-supervised-traffic.vercel.app) |
+| [**zero-day-ood-detection**](https://github.com/Phanidhar007/zero-day-ood-detection) | Energy + Mahalanobis OOD scoring to flag never-seen zero-day attacks | OOD AUROC 0.937, 0% FPR on benign | [Live](https://zero-day-ood-detection.vercel.app) |
+
 ## Specialized Applications
 
 | Project | Description | Accuracy/Impact |
