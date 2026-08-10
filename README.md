@@ -91,14 +91,19 @@ I'm a **Cybersecurity Engineering Student** passionate about building intelligen
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|-----------|-----------|
-| [**AI-Phishing-Detection**](https://github.com/Phanidhar007/AI-Phishing-Detection-Web-App) | Full-stack ML phishing detection system with real-time analysis | Python, FastAPI, React | ⭐ Most Popular |
-| [**vuln-auditor**](https://github.com/Phanidhar007/vuln-auditor) | Automated dependency vulnerability scanner with NVD integration | Python, NVD Database | Automated Scanning |
-| [**recon-pro**](https://github.com/Phanidhar007/recon-pro) | Passive OSINT reconnaissance: subdomain enum, DNS, HTTP probing | Python, OSINT | Attack Surface |
+| [**AI-Phishing-Detection**](https://github.com/Phanidhar007/AI-Phishing-Detection-Web-App) | Full-stack ML phishing detection system with real-time analysis | Python, FastAPI, React | [Live](https://aishield-scan.vercel.app) ⭐ |
+| [**vuln-auditor**](https://github.com/Phanidhar007/vuln-auditor) | Automated dependency vulnerability scanner with NVD integration | Python, NVD Database | [Live](https://vuln-auditor.vercel.app) |
+| [**recon-pro**](https://github.com/Phanidhar007/recon-pro) | Passive OSINT reconnaissance: subdomain enum, DNS, HTTP probing | Python, OSINT | [Live](https://recon-pro-drab.vercel.app) |
 | [**phishing-url-detector**](https://github.com/Phanidhar007/phishing-url-detector) | Real-time phishing URL detection API | Python, ML | [Live](https://phishing-url-detector-gules.vercel.app) |
 | [**ids-ensemble**](https://github.com/Phanidhar007/ids-ensemble) | Network intrusion detection via ensemble learning | Python, scikit-learn | [Live](https://ids-ensemble.vercel.app) |
 | [**malware-classifier**](https://github.com/Phanidhar007/malware-classifier) | Static malware detection with SHAP explainability | Python, scikit-learn | [Live](https://malware-classifier-theta.vercel.app) |
 | [**spam-email-classifier**](https://github.com/Phanidhar007/spam-email-classifier) | NLP-powered spam & phishing email classification | Python, NLP | [Live](https://spam-email-classifier-psi.vercel.app) |
 | [**password-strength-checker**](https://github.com/Phanidhar007/password-strength-checker) | Entropy + ML + Have I Been Pwned strength checker | Python, scikit-learn | [Live](https://password-strength-checker-seven-blush.vercel.app) |
+| [**secret-scan-cli**](https://github.com/Phanidhar007/secret-scan-cli) | Detect leaked secrets (API keys, tokens) in files & git history | Python, entropy analysis | [Live](https://secret-scan-cli.vercel.app) |
+| [**neteye**](https://github.com/Phanidhar007/neteye) | Scapy-based network recon: ARP discovery, SYN scan, OS fingerprint | Python, Scapy | [Live](https://neteye.vercel.app) |
+| [**forensic-toolkit**](https://github.com/Phanidhar007/forensic-toolkit) | Read-only DFIR toolkit: hashing, EXIF, YARA, Volatility3 | Python, YARA | [Live](https://forensic-toolkit.vercel.app) |
+| [**websec-probe**](https://github.com/Phanidhar007/websec-probe) | Safe web app scanner: XSS, SQLi indicators, headers, TLS | Python | [Live](https://websec-probe.vercel.app) |
+| [**cloud-sec-audit**](https://github.com/Phanidhar007/cloud-sec-audit) | S3 exposure checks + Dockerfile audit + Trivy scanning | Python, Trivy | [Live](https://cloud-sec-audit.vercel.app) |
 
 ## Intermediate — Applied Security Intelligence
 
@@ -109,6 +114,7 @@ I'm a **Cybersecurity Engineering Student** passionate about building intelligen
 | [**captcha-robustness-scorer**](https://github.com/Phanidhar007/captcha-robustness-scorer) | CAPTCHA solver & robustness analysis | Python, OpenCV | [Live](https://captcha-robustness-scorer.vercel.app) |
 | [**fraud-detection-engine**](https://github.com/Phanidhar007/fraud-detection-engine) | Credit card fraud detection engine | Python, scikit-learn | [Live](https://fraud-detection-engine-sage.vercel.app) |
 | [**vuln-severity-predictor**](https://github.com/Phanidhar007/vuln-severity-predictor) | CVE severity prediction from description text | Python, NLP | [Live](https://vuln-severity-predictor.vercel.app) |
+| [**soc-lens**](https://github.com/Phanidhar007/soc-lens) | SIEM-style log parsing & correlation (syslog, Zeek, Suricata, Wazuh) | Python | [Live](https://soc-lens.vercel.app) |
 
 ## Advanced — Next-Gen Security ML
 
@@ -141,7 +147,7 @@ I'm a **Cybersecurity Engineering Student** passionate about building intelligen
 | Project | Description | Accuracy/Impact |
 |---------|-------------|-----------------|
 | [**tennis-prediction-v3**](https://github.com/Phanidhar007/tennis-prediction-v3) | Tennis match prediction with ensemble models | **95% Accuracy** |
-| [**threat-intel-hub**](https://github.com/Phanidhar007/threat-intel-hub) | Aggregated threat intelligence dashboard | Threat Analysis |
+| [**threat-intel-hub**](https://github.com/Phanidhar007/threat-intel-hub) | Aggregated threat intelligence dashboard | [Live](https://threat-intel-hub.vercel.app) |
 
 ---
 
